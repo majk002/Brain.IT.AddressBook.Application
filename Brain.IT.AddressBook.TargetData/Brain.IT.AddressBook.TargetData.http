@@ -1,0 +1,6 @@
+@Brain.IT.AddressBook.TargetData_HostAddress = http://localhost:5227
+
+GET {{Brain.IT.AddressBook.TargetData_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
