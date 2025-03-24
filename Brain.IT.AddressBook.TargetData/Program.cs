@@ -2,7 +2,6 @@ using Brain.IT.AddressBook.TargetData.Data;
 using Brain.IT.AddressBook.TargetData.Profiles;
 using Brain.IT.AddressBook.TargetData.Repositories;
 using Brain.IT.AddressBook.TargetData.Services;
-using Brain.IT.AddressBook.TargetData.Utilities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
